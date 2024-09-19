@@ -15218,26 +15218,35 @@
 ### 🧚‍♀️IBRAHIM ADAM'S💫
 
 ***
+
 ⭕  DEPLOY BOTTOM BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BMW-MD)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BMW-MD)
+
+
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-white.svg)](https://youtu.be/RHWxSmRmDo8?si=lixAs57cC_G2LVXQ)
+
+***
 
 ⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BWM-XMD)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BWM-XMD)
 
 ****
+
 ⭕  DEPLOY ON [ RENDER ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-blue.svg)](https://render.com)
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤How_to_deploy-blue.svg)](https://youtu.be/pxL3iQ4ZkL4?si=JYU3CFTPp8YdKOo5)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-grey.svg)](https://youtu.be/pxL3iQ4ZkL4?si=JYU3CFTPp8YdKOo5)
+
+***
 
 ⭕  DEPLOY ON [ Panel ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-blue.svg)](https://toystack.ai)
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤How_to_deploy-blue.svg)](https://youtu.be/MsHd3uzDUhY?si=mitgINm02HtAhoBm)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-grey.svg)](https://youtu.be/MsHd3uzDUhY?si=mitgINm02HtAhoBm)
 
  # ⚡ BMW INFO
 ***

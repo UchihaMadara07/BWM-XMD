@@ -106349,7 +106349,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
                 image: {
-                  url: 'https://telegra.ph/file/0c225f7da5616cdcbec80.jpg',
+                  url: 'https://i.imgur.com/G3WM4D8.jpeg',
                 },
               }, { upload: Matrix.waUploadToServer })),
               title: '',
@@ -106362,35 +106362,35 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                   name: 'quick_reply',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "Commands",
+                    display_text: "📜 COMMAND LIST",
                     id: ".command",
                   }),
                 },
-                {
+                 {
                   name: 'quick_reply',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "Owner",
-                    id: ".owner",
-                  }),
-                },
-                {
-                  name: 'quick_reply',
-                  buttonParamsJson: JSON.stringify({
-                    display_text: "Ping",
+                    display_text: "⏳ PING",
                     id: ".ping",
                   }),
                 },
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "Bmw Repo",
+                    display_text: "📂 REPO",
                     url: 'https://github.com/devibraah/BWM-XMD',
+                  }),
+                },
+                {
+                 name: 'cta_url',
+                  buttonParamsJson: JSON.stringify({
+                    display_text: "📽 HOW TO DEPLOY",
+                    url: 'https://ibrahim-adams.vercel.app/Deploy.html',
                   }),
                 },
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "Follow Wachannel",
+                    display_text: "🛰 WHATSAPP CHANNEL",
                     url: 'https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y',
                   }),
                 },
